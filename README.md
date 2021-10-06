@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raginn8
+- 👀 I’m interested in developing my HTML/CSS/Javascript skills
+- 🌱 I’m currently learning SPAs, websockets, library usage and database access
+- 💞️ I’m looking to collaborate on anything that provides mentorship 
+- 📫 I'm reachable via email
